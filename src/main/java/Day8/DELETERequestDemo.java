@@ -16,7 +16,7 @@ public class DELETERequestDemo {
         baseURI= ConfigurationReader.get("spartan_api_url");
     }
 
-    //kalbinur is stupid
+
     @Test
     public void test1(){
         Random rd = new Random();
